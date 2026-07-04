@@ -1,0 +1,30 @@
+{
+  "colorPalette": "electric-blue",
+  "glassSurfaces": false,
+  "glassmorphic": false,
+  "entries": [
+    {
+      "id": "20260703-230013-su19",
+      "title": "Insert Crazy Name",
+      "commanders": [
+        "Insert Crazy Name"
+      ],
+      "dateStart": "2026-07-04T03:00:13.000Z",
+      "dateEnd": "2026-07-04T03:32:58.000Z",
+      "dateLabel": "7/3/2026, 11:00:13 PM - 7/3/2026, 11:32:58 PM",
+      "url": "https://Alexcionix.github.io/wvw-logs/?report=20260703-230013-su19",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 27,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 5,
+        "avgEnemySize": 23
+      }
+    }
+  ]
+}

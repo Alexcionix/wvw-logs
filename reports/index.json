@@ -4,6 +4,27 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260711-153039-9sq7",
+      "title": "Unknown Commander",
+      "commanders": [],
+      "dateStart": "2026-07-11T19:30:39.000Z",
+      "dateEnd": "2026-07-11T19:56:10.000Z",
+      "dateLabel": "7/11/2026, 3:30:39 PM - 7/11/2026, 3:56:10 PM",
+      "url": "https://Alexcionix.github.io/wvw-logs/?report=20260711-153039-9sq7",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 4,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 4,
+        "avgEnemySize": 19
+      }
+    },
+    {
       "id": "20260703-230013-su19",
       "title": "Insert Crazy Name",
       "commanders": [
